@@ -1,4 +1,21 @@
+.ColorPiker{
+        margin-top: 50px;
+        width: 400px;
+        padding: 10px;
+        border: 1px solid black;
+}
+.ColorPiker__title{
+        line-height: 1.3;
+}
 .ColorPiker__option{
-        display: flex;
-        width: 50px;
+        display: inline-block;
+        width: 40px;
+        height: 40px;
+        margin: 4px;
+        border: none;
+        cursor: pointer;
+        transition: transform 250ms liner;
+}
+.ColorPiker__option--active {
+        transform: scale(1.1);
 }
