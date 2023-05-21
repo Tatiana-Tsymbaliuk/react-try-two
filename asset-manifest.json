@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-try-two/static/css/main.c790c156.css",
-    "main.js": "/react-try-two/static/js/main.523ef5fd.js",
+    "main.css": "/react-try-two/static/css/main.b374f820.css",
+    "main.js": "/react-try-two/static/js/main.3e68fa87.js",
     "index.html": "/react-try-two/index.html",
-    "main.c790c156.css.map": "/react-try-two/static/css/main.c790c156.css.map",
-    "main.523ef5fd.js.map": "/react-try-two/static/js/main.523ef5fd.js.map"
+    "main.b374f820.css.map": "/react-try-two/static/css/main.b374f820.css.map",
+    "main.3e68fa87.js.map": "/react-try-two/static/js/main.3e68fa87.js.map"
   },
   "entrypoints": [
-    "static/css/main.c790c156.css",
-    "static/js/main.523ef5fd.js"
+    "static/css/main.b374f820.css",
+    "static/js/main.3e68fa87.js"
   ]
 }
